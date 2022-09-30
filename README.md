@@ -1,1 +1,1 @@
-# AngularClouFireStore
+# AngularCloudFireStore
