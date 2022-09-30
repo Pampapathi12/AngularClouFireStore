@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/employee-crud-operation",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
